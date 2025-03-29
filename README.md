@@ -28,4 +28,4 @@
 ---
 
 ## 📬 **Contact Me**  
-[![Discord](https://img.shields.io/badge/Discord-ppppp87780h%23980488038742384680-7289DA?style=flat&logo=discord)](https://discord.com/users/682616672246562867)  
+[![Discord](https://img.shields.io/badge/Discord-d7rest%682616672246562867-7289DA?style=flat&logo=discord)](https://discord.com/users/682616672246562867)  
