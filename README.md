@@ -1,12 +1,13 @@
-# 🚀 **Lua Developer | Scripting Expert**  
+# 🚀 **LuaU Developer**  
 
 ### **☄️ 2+ Years of LuaU Experience**  
-🔹 **Developer at [Atlas](#)** | 🏆 **Lead Script Helper at NYX**  
+🔹 **Developer at [Atlas](#)** 
+🛠️ **Lead Script Helper at NYX**  
 
 ---
 
 ## 🔥 **Tech Stack**  
-🛠️ **Languages:** Lua (Expert) | Python & Java (Learning)  
+🛠️ **Languages:** LuaU | Python & Java (Learning)  
 💻 **Tools:** Git, VS Code, Roblox Studio, Roblox Exploit  
 
 ---
@@ -20,10 +21,11 @@
 ---
 
 ## 🎯 **Projects & Interests**  
-🎮 **Game Scripting (Roblox)** | 🤖 **Automation & Bots (Python)**  
+🎮 **Game Scripting (Roblox)**
+🤖 **Automation & Bots (Python)**  
 📜 **Open-Source Contributions**  
 
 ---
 
-## 📬 **Connect With Me!**  
-[![Discord](https://img.shields.io/badge/Discord-ppppp87780h%23980488038742384680-7289DA?style=flat&logo=discord)](https://discord.com/users/980488038742384680)  
+## 📬 **Contact Me**  
+[![Discord](https://img.shields.io/badge/Discord-ppppp87780h%23980488038742384680-7289DA?style=flat&logo=discord)](https://discord.com/users/682616672246562867)  
