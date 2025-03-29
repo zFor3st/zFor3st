@@ -25,8 +25,16 @@
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zFor3st&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFor3st&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=zFor3st&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&line_height=24" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zFor3st&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFor3st&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" height="165">
+</div>
+
+---
+
+### 🏆 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zFor3st&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies">
 </div>
 
 ---
